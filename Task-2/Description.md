@@ -14,9 +14,9 @@ Talend open source data integration software products provide software to integr
 
 - It is Open Source.
 
--  Talend provides seemless integration of Java code, so most of the pre-processing can be done in Java and the main ETL done using the Talend components there by enhancing performance.
+-  Talend provides seamless integration of Java code, so most of the pre-processing can be done in Java and thereby enhancing the performance.
 
-- It has a very huge list of connectors to all databases, SAP, cloud platforms and can work with nearly all formats like JSON, XML, Excel, CSV etc. The main frame formats are also usable like EBCDIC.
+- It has a very huge list of connectors to all databases, SAP, cloud platforms and can work with nearly all formats like JSON, XML, Excel, CSV etc. The mainframe formats are also usable like EBCDIC.
 
 - Cost: $1,170/user monthly or $12,000 annually
 
